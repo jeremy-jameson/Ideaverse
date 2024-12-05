@@ -21,3 +21,5 @@ Perhaps most interesting is how the graph view illustrates that my previous note
 The corresponding graph view for my new personal notebook is already generating ideas about things to capture in my "**[[Ideaverse]]**."
 
 ![](https://i.imgur.com/1rQY7mv.png)
+
+Now... if I could just do something about that [[README]] file sitting out there all by itself... 😜
