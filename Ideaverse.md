@@ -14,7 +14,7 @@ Earlier today, I started thinking that I need to capture the various configurati
 
 I started this morning off by spinning up a Docker container with [[TiddlyWiki]] -- after seeing it mentioned on [perfectmediaserver.com](https://perfectmediaserver.com) .
 
-**Side note:** [[perfectmediacenter.com]] is written and maintained by [Alex Kretzschmar](https://www.linkedin.com/in/alex-kretzschmar/) (aka [@IronicBadger](https://twitter.com/ironicbadger)) and I originally stumbled upon it while learning how to configure [[mergerfs]] on my new media server.
+**Side note:** [[perfectmediacenter.com]] is written and maintained by [[Alex Kretzschmar]] and I originally stumbled upon it while learning how to configure [[mergerfs]] on my new media server.
 
 I tried **TiddlyWiki** for a little bit, but it was quickly apparent that when Alex said, "markdown is supported - yay!" he didn't mean capital "M" [[Markdown]].
 
