@@ -23,3 +23,5 @@ The corresponding graph view for my new personal notebook is already generating 
 ![](https://i.imgur.com/1rQY7mv.png)
 
 Now... if I could just do something about that [[README]] file sitting out there all by itself... 😜
+
+💡 **Tip:** After installing Obsidian, always enable the following option - **Files and Links > Automatically update internal links**. (Why is "disabled" the default setting?! 😠)
