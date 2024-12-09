@@ -20,6 +20,6 @@ I tried **TiddlyWiki** for a little bit, but it was quickly apparent that when A
 
 That quickly led to numerous browser tabs related to [[Obsidian]]... which, in turn, led to several browser tabs for Nick Milo's excellent YouTube videos on [Obsidian for Beginners](https://www.youtube.com/playlist?list=PL3NaIVgSlAVLHty1-NuvPa9V0b0UwbzBd). Fast forward a few hours, and the name I chose for my Obsidian Vault (i.e., my ubiquitous "personal notebook") became somewhat of a no-brainer.
 
-I spent a couple of hours getting tools (e.g., [[git]]) installed and configured just the way I like them -- but hopefully that investment will pay off over the long haul. In other words, I hope that I will eventually look back on hundreds -- or perhaps thousands -- of notes with a feeling of satisfaction akin to [[raising a child]].
+I spent a couple of hours getting tools (e.g., [[git]]) installed and configured just the way I like them -- but hopefully that investment will pay off over the long haul. In other words, I hope that I will eventually look back on hundreds -- or perhaps thousands -- of notes with a feeling of satisfaction akin to [[Savannah|raising a child]].
 
 Time for some lunch!
