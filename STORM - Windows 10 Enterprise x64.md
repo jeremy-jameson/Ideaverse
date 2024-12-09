@@ -100,19 +100,7 @@ Update-Help
 >
 > Repeat until there are no updates available for the computer.
 
-## Disk Cleanup
-
-```PowerShell
-cls
-```
-
-### # Delete C:\\Windows\\SoftwareDistribution folder (4.7 GB)
-
-```PowerShell
-Stop-Service wuauserv
-
-Remove-Item C:\Windows\SoftwareDistribution -Recurse
-```
+## [[Disk cleanup]]
 
 ```PowerShell
 cls
