@@ -7,7 +7,7 @@
 cls
 ```
 
-## Move computer to different OU
+## Move computer to "Development" OU
 
 ```PowerShell
 $vmName = "STORM"
