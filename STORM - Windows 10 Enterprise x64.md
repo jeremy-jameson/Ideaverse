@@ -32,21 +32,8 @@ Install DaVinci Resolve
 ### [[Select power scheme#Select 'High performance' power scheme]]
 
 ### [[Enable PowerShell remoting]]
-### Create default folders
 
-> **Important**
->
-> Run the following commands using a non-elevated command prompt (to avoid issues with customizing the folder icons).
-
----
-
-```Console
-mkdir C:\NotBackedUp\Public\Symbols
-mkdir C:\NotBackedUp\Temp
-mkdir C:\NotBackedUp\vscode-data
-```
-
----
+### [[Create default folders]]
 
 ```PowerShell
 cls
