@@ -24,18 +24,12 @@ Install DaVinci Resolve
 ### [[Configure storage]]
 
 ### [[Install software for HP Photosmart 6515]]
+
 ### [[Disable background apps]]
 
 ### [[Enable firewall rules for Disk Management]]
-### # Select "High performance" power scheme
 
-```PowerShell
-powercfg.exe /L
-
-powercfg.exe /S SCHEME_MIN
-
-powercfg.exe /L
-```
+### [[Select power scheme#Select 'High performance' power scheme]]
 
 ```PowerShell
 cls
