@@ -26,16 +26,7 @@ Install DaVinci Resolve
 ### [[Install software for HP Photosmart 6515]]
 ### [[Disable background apps]]
 
-```PowerShell
-cls
-```
-
-### # Enable firewall rules for Disk Management
-
-```PowerShell
-Enable-NetFirewallRule -DisplayGroup "Remote Volume Management"
-```
-
+### [[Enable firewall rules for Disk Management]]
 ### # Select "High performance" power scheme
 
 ```PowerShell
