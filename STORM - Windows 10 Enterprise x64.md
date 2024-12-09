@@ -36,48 +36,8 @@ Install DaVinci Resolve
 ### [[Create default folders]]
 
 ### [[Configure cmder shortcut in Windows Explorer]]
-## Install and configure Hyper-V
 
-### Enable Hyper-V
-
-```PowerShell
-cls
-```
-
-### # Configure VM storage
-
-```PowerShell
-mkdir D:\NotBackedUp\VMs
-
-Set-VMHost -VirtualMachinePath D:\NotBackedUp\VMs
-```
-
-### # Create virtual switches
-
-```PowerShell
-$interfaceAlias = "LAN"
-
-New-VMSwitch `
-    -Name $interfaceAlias `
-    -NetAdapterName $interfaceAlias `
-    -AllowManagementOS $true
-```
-
-### # Enable jumbo frames on virtual switches
-
-```PowerShell
-Get-NetAdapterAdvancedProperty -DisplayName "Jumbo*"
-
-Set-NetAdapterAdvancedProperty `
-    -Name "vEthernet ($interfaceAlias)" `
-    -DisplayName "Jumbo Packet" `
-    -RegistryValue 9014
-
-Start-Sleep -Seconds 5
-
-ping TT-FS01 -f -l 8900
-```
-
+## [[Install and configure Hyper-V]]
 ### Install Microsoft Office
 
 ### Install OneNote 2016
