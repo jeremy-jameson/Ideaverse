@@ -8,8 +8,9 @@ Monday, July 2, 2018\
 
 ### [[Install Windows 10 Enterprise (x64)]]
 
-Install DaVinci Resolve
+### Install DaVinci Resolve
 
+**Note:** This must be installed before joining the domain to avoid an issue with the DaVinci Resolve setup. Specifically, the password specified for the PostgreSQL database user does not meet the password complexity requirements enforced by group policy.
 ### [[Rename computer and join domain]]
 
 ### [[Move computer to different OU]]
@@ -38,6 +39,7 @@ Install DaVinci Resolve
 ### [[Configure cmder shortcut in Windows Explorer]]
 
 ## [[Install and configure Hyper-V]]
+
 ### Install Microsoft Office
 
 ### Install OneNote 2016
