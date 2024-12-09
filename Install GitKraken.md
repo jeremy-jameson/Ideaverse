@@ -12,7 +12,7 @@ net use \\TT-FS01\IPC$ /USER:TECHTOOLBOX\jjameson
 > When prompted, type the password to connect to the file share.
 
 ```PowerShell
-$setupPath = "\\TT-FS01\Products\Axosoft\GitKrakenSetup-6.3.1.exe"
+$setupPath = "\\TT-FS01\Products\Axosoft\GitKrakenSetup-10.5.0.exe"
 
 Start-Process -FilePath $setupPath -Wait
 ```
