@@ -25,3 +25,7 @@ The corresponding graph view for my new personal notebook is already generating 
 Now... if I could just do something about that [[README]] file sitting out there all by itself... 😜
 
 💡 **Tip:** After installing Obsidian, always enable the following option - **Files and Links > Automatically update internal links**. (Why is "disabled" the default setting?! 😠)
+
+I recommend [[Customizing hotkeys in Obsidian|customizing hotkeys in Obsidian]] to match the ones demonstrated in the following video by [[Nick Milo]]:
+
+[Obsidian for Beginners: 8 Important Hotkeys (5/6) — How to Use the Obsidian App for Notes](https://www.youtube.com/watch?v=cDcoBMVJsvk)
