@@ -102,21 +102,7 @@ Update-Help
 
 ## [[Disk cleanup]]
 
-```PowerShell
-cls
-```
-
-## # Enter a product key and activate Windows
-
-```PowerShell
-slmgr /ipk {product key}
-```
-
-**Note:** When notified that the product key was set successfully, click **OK**.
-
-```Console
-slmgr /ato
-```
+## [[Activate Windows with a product key]]
 
 ## [[Configure development user profile]]
 
