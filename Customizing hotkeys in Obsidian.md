@@ -6,3 +6,5 @@ Consequently, I customized the Obsidian hotkeys as follows:
 | ------------------------------- | -------- |
 | Toggle reading view             | `Ctrl+R` |
 | Toggle Live Preview/Source mode | `Ctrl+E` |
+
+❗**Important:** Custom hotkeys are saved in the `.obsidian/hotkeys.json` file within each Obsidian vault. If the vault is stored in a version control system (e.g. Git), then I recommend adding that file to the repository. This ensures the custom hotkeys work as expected across various environments and, more importantly, are not accidentally lost (e.g. deleting a local repository and subsequently cloning it again from version control).

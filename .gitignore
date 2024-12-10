@@ -1,15 +1,11 @@
-# to exclude Obsidian's settings (including plugin and hotkey configurations)
-.obsidian/
+# exclude Obsidian configuration settings (e.g. workspace caches)
+.obsidian/*
 
-# to only exclude plugin configuration. Might be useful to prevent some plugin from exposing sensitive data
-.obsidian/plugins
+# include hotkeys configuration
+!.obsidian/hotkeys.json
 
-# OR only to exclude workspace cache
-.obsidian/workspace.json
-
-# to exclude workspace cache specific to mobile devices
-.obsidian/workspace-mobile.json
-
-# Add below lines to exclude OS settings and caches
 .trash/
+
+# exclude OS configuration files
 .DS_Store
+desktop.ini
