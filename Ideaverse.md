@@ -1,6 +1,6 @@
 Well... I'm doing it once again -- starting a new notebook. This time, using [[Obsidian]].
 
-![](https://i.imgur.com/FlifHsY.png)
+![Obsidian - start page](https://i.imgur.com/aJiPDGc.png)
 
 **Why?** Primarily two reasons:
 1. I neither want to nor can remember every idea, thought, feeling, or esoteric Linux command that ever entered my brain at some point in life. Call it *getting old* or *lazy* or *whatever*... I don't care. The point is, I'm done *even pretending* that my memory at 53 years old is anywhere near what it used to be at its peak (which I suspect was sometime around the time I left [[Microsoft]] and started my own consulting business -- [[Technology Toolbox]]).

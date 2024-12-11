@@ -10,18 +10,18 @@ However, you *can* still quickly search for notes on GitHub and most of the actu
 
 For example, suppose you are configuring [[storage]] on a Windows PC and you want to [[change the drive letter for the DVD-ROM drive]]. You can select the corresponding text from the note on GitHub, copy it, and then paste it into a [[PowerShell]] session: 
 
-![](https://i.imgur.com/PrUNPKC.png)
+![Copying a code block in GitHub](https://i.imgur.com/hrPsqC2.png)
 
 Some conventions are used to help expedite the process of copying relatively large portions of content and executing the corresponding commands quickly (e.g., `cls` "code blocks" followed by headings prefixed by `#` -- which denotes a comment in PowerShell).
 
 If you take the time to clone the repo and open it in Obsidian, you must click the corresponding button on the code block in order to copy the content:
 
-![](https://i.imgur.com/taeqbX4.png)
+![Copying a code block in Obsidian](https://i.imgur.com/JWkmqf0.png)
 
 ❗ This is necessary to avoid issues with copying portions of the corresponding Markdown.
 
 Another benefit of opening the notebook in Obsidian is switching to the graph view, which is already generating ideas about things to capture in my "**[[Ideaverse]]**."
 
-![](https://i.imgur.com/1rQY7mv.png)
+![Obsidian - Graph view](https://i.imgur.com/Fjn0dJT.png)
 
 
