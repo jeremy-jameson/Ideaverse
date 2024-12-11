@@ -1,12 +1,15 @@
 ---  
-tags: daily  
+tags: daily
 ---  
   
-## What do I need to accomplish today?  
+## What do I need to accomplish today?
+
 - [ ]  
-  
-## Notes  
+
+## Notes
+
 -  
   
-## What did I learn today?  
+## What did I learn today?
+
 -
