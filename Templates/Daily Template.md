@@ -12,11 +12,9 @@ tags: daily
   
 ## What did I learn today?
 
--
-## Files created today
+- 
 
-```dataview  
-LIST
-WHERE striptime(created) = date(this.file.name)
-SORT file.name
-```
+> [!note]- Files created today
+>```dataview  
+>LIST WHERE striptime(created) = date(this.file.name) SORT file.name
+>```
