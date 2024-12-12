@@ -1,3 +1,8 @@
+---
+created: 2024-12-05T21:13:54Z
+modified: 2024-12-12T11:45:42Z
+---
+
 [Alex Kretzschmar](https://www.linkedin.com/in/alex-kretzschmar/) (aka [@IronicBadger](https://twitter.com/ironicbadger))
 
 Fantastic resource for building the "*perfect media server*" and pretty much anything else related to self-hosting.

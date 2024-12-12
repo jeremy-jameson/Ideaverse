@@ -1,3 +1,8 @@
+---
+created: 2024-12-11T14:29:08Z
+modified: 2024-12-12T11:45:42Z
+---
+
 ## Configure Minimal theme in Obsidian
 
 Reference: [Minimal Documentation > Get started](https://minimal.guide/home#Get+started)

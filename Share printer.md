@@ -1,3 +1,8 @@
+---
+created: 2024-12-09T18:00:04Z
+modified: 2024-12-09T18:00:04Z
+---
+
 ## Share printer
 
 ![(screenshot)](https://assets.technologytoolbox.com/screenshots/01/2EDCC101189FC9A8E4E5FD9205D12E8EB82B2F01.png)

@@ -1,3 +1,8 @@
+---
+created: 2024-12-09T16:35:49Z
+modified: 2024-12-09T16:35:49Z
+---
+
 ## # Install NVIDIA display driver
 
 ```PowerShell

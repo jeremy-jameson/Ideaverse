@@ -1,3 +1,8 @@
+---
+created: 2024-12-05T22:59:27Z
+modified: 2024-12-12T11:45:42Z
+---
+
 After using [Obsidian](https://obsidian.md/) for the first time today (roughly 2 hours so far), I've got to say… I'm digging it! 😎
 
 For years, I used Visual Studio Code to author Markdown files in my [[previous notebooks on GitHub]]:

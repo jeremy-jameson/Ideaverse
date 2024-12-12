@@ -1,3 +1,8 @@
+---
+created: 2024-12-09T16:27:04Z
+modified: 2024-12-09T16:27:04Z
+---
+
 ### Rename computer and join domain
 
 ```PowerShell

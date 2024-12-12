@@ -1,3 +1,8 @@
+---
+created: 2024-12-05T18:33:42Z
+modified: 2024-12-12T11:45:42Z
+---
+
 # Ideaverse
 
 My personal notebook used to help me remember ideas, thoughts, feelings, esoteric Linux commands, etc.

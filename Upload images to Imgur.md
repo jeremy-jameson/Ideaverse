@@ -1,3 +1,8 @@
+---
+created: 2024-12-11T22:05:22Z
+modified: 2024-12-12T11:45:42Z
+---
+
 ## Add images to Imgur for Obsidian notebook (Ideaverse)
 
 To add images to the Obsidian notebook:

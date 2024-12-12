@@ -1,3 +1,8 @@
+---
+created: 2024-12-09T16:41:33Z
+modified: 2024-12-12T11:45:42Z
+---
+
 ### # Configure networking
 
 ```PowerShell

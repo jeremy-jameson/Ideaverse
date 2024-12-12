@@ -1,3 +1,8 @@
+---
+created: 2024-12-09T16:26:14Z
+modified: 2024-12-09T16:26:14Z
+---
+
 ## Install custom Windows 10 image
 
 - On the **Task Sequence** step, select **Windows 10 Enterprise (x64)** and click **Next**.

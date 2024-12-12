@@ -1,3 +1,8 @@
+---
+created: 2024-12-09T16:12:28Z
+modified: 2024-12-12T11:45:42Z
+---
+
 In the past, I have created rather lengthy notes to document the steps to install and configure various environments -- whether those be physical machines, such as my primary Windows desktop, or virtual machines used for a variety of purposes. For example, my previous notebook for [[Technology Toolbox]] contains the following:
 
 [STORM - Windows 10 Enterprise x64.md](https://github.com/technology-toolbox/Notebook/blob/main/Infrastructure/STORM%20-%20Windows%2010%20Enterprise%20x64.md)

@@ -1,3 +1,8 @@
+---
+created: 2024-12-11T23:08:06Z
+modified: 2024-12-12T11:45:42Z
+---
+
 ## .gitignore changes
 
 When I woke up this morning, I almost immediately started thinking about my `.gitignore` for Obsidian and decided to fix it.

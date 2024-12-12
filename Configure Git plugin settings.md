@@ -1,3 +1,8 @@
+---
+created: 2024-12-11T23:08:06Z
+modified: 2024-12-12T11:45:42Z
+---
+
 ## Configure Git plugin settings
 
 - Customize default commit message and date format

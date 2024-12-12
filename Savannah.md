@@ -1,3 +1,8 @@
+---
+created: 2024-12-05T22:00:24Z
+modified: 2024-12-12T11:45:42Z
+---
+
 My daughter is currently attending [[Oregon State University]] and majoring in [[Mathematics]]. Huzzah!
 
 She will be transferring to my alma mater, the [[University of Colorado - Boulder]], in January 2025 and switching majors to [[Architectural Engineering]].

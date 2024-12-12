@@ -1,3 +1,8 @@
+---
+created: 2024-12-05T21:45:36Z
+modified: 2024-12-12T11:45:42Z
+---
+
 My wife…my love…my *everything*. ❤❤
 
 I'd be lost without her.

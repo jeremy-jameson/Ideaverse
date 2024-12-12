@@ -1,3 +1,8 @@
+---
+created: 2024-12-09T16:51:57Z
+modified: 2024-12-12T11:45:42Z
+---
+
 ### Disable background apps
 
 1. Open **Windows Settings**.

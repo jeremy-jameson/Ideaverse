@@ -1,3 +1,8 @@
+---
+created: 2024-12-05T19:55:25Z
+modified: 2024-12-12T11:45:42Z
+---
+
 Well… I'm doing it once again -- starting a new notebook. This time, using [[Obsidian]].
 
 ![Obsidian - start page](https://i.imgur.com/aJiPDGc.png)

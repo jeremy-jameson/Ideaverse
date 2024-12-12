@@ -1,3 +1,8 @@
+---
+created: 2024-12-12T09:22:45Z
+modified: 2024-12-12T11:19:40Z
+---
+
 ## Reference
 
 [Don't Be Afraid to Use the Linter Plugin in #Obsidian | Amerpie by Lou Plummer](https://amerpie.lol/2024/06/05/dont-be-afraid.html)
