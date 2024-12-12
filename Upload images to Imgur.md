@@ -3,15 +3,16 @@
 To add images to the Obsidian notebook:
 
 1. Move the images to the [[Metatropi]] content repository
-2. Rename the image files using the corresponding SHA1 hashes
-3. Commit the changes to source control
-4. Upload the images to Imgur
+1. Rename the image files using the corresponding SHA1 hashes
+1. Commit the changes to source control
+1. Upload the images to Imgur
 
 ```powershell
 cls
 ```
+
 ### # Move screenshots to **Screenshots** folder in **Metatropi-Content** repository
-  
+
 ```powershell
 $sourcePath = "C:\Users\jjameson\OneDrive\Pictures\Screenshots\*"
 $destinationPath = "C:\BackedUp\Azure-DevOps\Metatropi-Content\Screenshots\"
@@ -22,6 +23,7 @@ mv $sourcePath $destinationPath
 ```powershell
 cls
 ```
+
 ### # Rename image files using corresponding SHA1 hashes
 
 ```powershell

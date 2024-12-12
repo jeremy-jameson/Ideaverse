@@ -1,6 +1,7 @@
 ```PowerShell
 cls
 ```
+
 ## # Install and configure Microsoft Money
 
 ### # Install Microsoft Money
@@ -31,7 +32,7 @@ Start-Process -FilePath $setupPath -Wait
    C:\NotBackedUp\Public\Toolbox\HxD\HxD.exe "C:\Program Files (x86)\Microsoft Money Plus\MNYCoreFiles\mnyob99.dll"
    ```
 
-2. Make the following changes:
+1. Make the following changes:
 
    File offset **003FACE8**: Change **85** to **8D**\
    File offset **003FACED**: Change **50** to **51**\
@@ -76,9 +77,9 @@ cls
 In the **New Template** window:
 
 1. Ensure **Create new template** is selected and click **Next**.
-2. In the **Name** box, type **Technology Toolbox** and click **Next**.
-3. Ensure **Portrait** is selected and click **Finish**.
-4. On the **File** menu, click **Save**.
+1. In the **Name** box, type **Technology Toolbox** and click **Next**.
+1. Ensure **Portrait** is selected and click **Finish**.
+1. On the **File** menu, click **Save**.
 
 > **Note**
 >

@@ -1,6 +1,7 @@
 ```PowerShell
 cls
 ```
+
 ## # Install Microsoft SQL Server 2017
 
 ### # Create folders for Distributed Replay Client
@@ -96,7 +97,7 @@ Set-Location C:
 
 ##### Reference
 
-**SQL SERVER - Dude, Where is the SQL Agent Job History? - Notes from the Field #017**\
+**SQL SERVER - Dude, Where is the SQL Agent Job History? - Notes from the Field \#017**\
 From <[https://blog.sqlauthority.com/2014/02/27/sql-server-dude-where-is-the-sql-agent-job-history-notes-from-the-field-017/](https://blog.sqlauthority.com/2014/02/27/sql-server-dude-where-is-the-sql-agent-job-history-notes-from-the-field-017/)>
 
 ```PowerShell

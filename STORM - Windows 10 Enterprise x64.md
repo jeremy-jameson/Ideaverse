@@ -1,4 +1,3 @@
-
 Monday, July 2, 2018\
 11:20 AM
 
@@ -11,9 +10,11 @@ Monday, July 2, 2018\
 ### Install DaVinci Resolve
 
 **Note:** This must be installed before joining the domain to avoid an issue with the DaVinci Resolve setup. Specifically, the password specified for the PostgreSQL database user does not meet the password complexity requirements enforced by group policy.
+
 ### [[Rename computer and join domain]]
 
 ### [[Move computer to different OU]]
+
 ### Login as local administrator account
 
 ### [[Install NVIDIA display driver]]

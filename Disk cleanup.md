@@ -1,6 +1,7 @@
 ```PowerShell
 cls
 ```
+
 ## # Disk Cleanup
 
 ### # Delete C:\\Windows\\SoftwareDistribution folder

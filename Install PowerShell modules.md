@@ -1,6 +1,7 @@
 ```PowerShell
 cls
 ```
+
 ## # Install PowerShell modules
 
 ### # Install posh-git module (e.g. for Powerline Git prompt customization)
@@ -34,7 +35,7 @@ Install-Module -Name 'posh-git'
 #### Remove AzureRM module
 
 1. Open **Programs and Features**
-2. Uninstall **Microsoft Azure PowerShell - April 2018**
+1. Uninstall **Microsoft Azure PowerShell - April 2018**
 
 ```PowerShell
 cls

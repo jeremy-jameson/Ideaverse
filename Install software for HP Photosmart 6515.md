@@ -1,6 +1,7 @@
 ```PowerShell
 cls
 ```
+
 ## # Install software for HP Photosmart 6515
 
 ```PowerShell
@@ -12,7 +13,7 @@ Start-Process -FilePath $setupPath -Wait
 On the **Software Selections** step:
 
 1. Click **Customize Software Selections**.
-2. Clear the checkboxes for the following items:
+1. Clear the checkboxes for the following items:
    - **HP Update**
    - **HP Photosmart 6510 series Product Improvement**
    - **Bing Bar for HP (includes HP Smart Print)**

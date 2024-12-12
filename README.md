@@ -8,7 +8,7 @@ The contents of this repository are authored using [[Obsidian]]. Consequently, t
 
 However, you *can* still quickly search for notes on GitHub and most of the actual content in the notebook should be easily readable and support seamless copy/paste.
 
-For example, suppose you are configuring [[storage]] on a Windows PC and you want to [[change the drive letter for the DVD-ROM drive]]. You can select the corresponding text from the note on GitHub, copy it, and then paste it into a [[PowerShell]] session: 
+For example, suppose you are configuring [[storage]] on a Windows PC and you want to [[change the drive letter for the DVD-ROM drive]]. You can select the corresponding text from the note on GitHub, copy it, and then paste it into a [[PowerShell]] session:
 
 ![Copying a code block in GitHub](https://i.imgur.com/hrPsqC2.png)
 
@@ -23,5 +23,3 @@ If you take the time to clone the repo and open it in Obsidian, you must click t
 Another benefit of opening the notebook in Obsidian is switching to the graph view, which is already generating ideas about things to capture in my "**[[Ideaverse]]**."
 
 ![Obsidian - Graph view](https://i.imgur.com/Fjn0dJT.png)
-
-

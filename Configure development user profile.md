@@ -7,9 +7,9 @@
 ### Disable background apps
 
 1. Open **Windows Settings**.
-2. In the **Windows Setttings** window, select **Privacy**.
-3. On the **Privacy** page, select **Background apps**.
-4. On the **Background apps** page, disable the following apps from running in the background:
+1. In the **Windows Settings** window, select **Privacy**.
+1. On the **Privacy** page, select **Background apps**.
+1. On the **Background apps** page, disable the following apps from running in the background:
    - **3D Viewer**
    - **Calculator**
    - **Camera**

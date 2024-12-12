@@ -194,7 +194,7 @@ Start-Process -FilePath $setupPath -Wait
 >
 > Wait for the installation to complete.
 
-"Windows blocked the installation of a digitally unsigned driver..."
+"Windows blocked the installation of a digitally unsigned driver…"
 
 **Microsoft Message Anlayzer 1.4 - 'A Digitally Signed Driver Is Required'**\
 From <[https://social.technet.microsoft.com/Forums/windows/en-US/48b4c226-fc3d-4793-b544-3440ed13424a/microsoft-message-anlayzer-14-a-digitally-signed-driver-is-required?forum=messageanalyzer](https://social.technet.microsoft.com/Forums/windows/en-US/48b4c226-fc3d-4793-b544-3440ed13424a/microsoft-message-anlayzer-14-a-digitally-signed-driver-is-required?forum=messageanalyzer)>

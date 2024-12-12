@@ -1,6 +1,7 @@
 ```PowerShell
 cls
 ```
+
 ## # Install Visual Studio Code
 
 ```PowerShell
@@ -97,7 +98,7 @@ darfka.vbscript
 >
 > HTML formatting issue with Prettier:
 >
-> **Add the missing option to disable crappy Prettier VSCode HTML formatter #636**\
+> **Add the missing option to disable crappy Prettier VSCode HTML formatter \#636**\
 > From <[https://github.com/prettier/prettier-vscode/issues/636](https://github.com/prettier/prettier-vscode/issues/636)>
 
 ---
@@ -105,7 +106,7 @@ darfka.vbscript
 #### Configure Visual Studio Code settings
 
 1. Press **Ctrl+Shift+P**
-2. Select **Preferences: Open Settings (JSON)**
+1. Select **Preferences: Open Settings (JSON)**
 
 ---
 

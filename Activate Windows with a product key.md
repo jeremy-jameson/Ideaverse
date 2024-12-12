@@ -1,6 +1,7 @@
 ```PowerShell
 cls
 ```
+
 ## # Enter a product key and activate Windows
 
 ```PowerShell

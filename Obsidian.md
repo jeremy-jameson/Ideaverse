@@ -1,8 +1,10 @@
-After using [Obsidian](https://obsidian.md/) for the first time today (roughly 2 hours so far), I've got to say... I'm digging it! 😎
+After using [Obsidian](https://obsidian.md/) for the first time today (roughly 2 hours so far), I've got to say… I'm digging it! 😎
 
 For years, I used Visual Studio Code to author Markdown files in my [[previous notebooks on GitHub]]:
-	- https://github.com/jeremy-jameson/Notebook
-	- https://github.com/technology-toolbox/Notebook
+
+	- <https://github.com/jeremy-jameson/Notebook>
+
+	- <https://github.com/technology-toolbox/Notebook>
 
 The vanilla Obsidian environment feels simple, yet powerful. I'm sure I will eventually add some [[plugins]] to streamline the process of capturing notes, but really the only part that has felt even remotely clunky so far is [[inserting images]] -- and that's only because one of my [[goals]] is minimizing the size of the **[[git]]** repo. Specifically, I've been uploading images to [[Imgur]] and then adding corresponding links in the Markdown.
 
@@ -22,7 +24,7 @@ The corresponding graph view for my new personal notebook is already generating 
 
 ![Obsidian - Graph view](https://i.imgur.com/Fjn0dJT.png)
 
-Now... if I could just do something about that [[README]] file sitting out there all by itself... 😜
+Now… if I could just do something about that [[README]] file sitting out there all by itself… 😜
 
 💡 **Tip:** After installing Obsidian, always enable the following option - **Files and Links > Automatically update internal links**. (Why is "disabled" the default setting?! 😠)
 

@@ -2,6 +2,7 @@
 ```PowerShell
 cls
 ```
+
 ### # Disable 'Automatically detect proxy settings' in Internet Explorer
 
 ```PowerShell

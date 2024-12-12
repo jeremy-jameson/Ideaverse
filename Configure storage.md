@@ -1,6 +1,7 @@
 ```PowerShell
 cls
 ```
+
 ### # Configure storage
 
 #### # Change drive letter for DVD-ROM
