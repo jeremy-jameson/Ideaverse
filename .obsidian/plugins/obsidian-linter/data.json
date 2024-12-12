@@ -58,15 +58,15 @@
       "yaml-sort-order-for-other-keys": "None"
     },
     "yaml-timestamp": {
-      "enabled": false,
+      "enabled": true,
       "date-created": true,
-      "date-created-key": "date created",
-      "date-created-source-of-truth": "file system",
+      "date-created-key": "created",
+      "date-created-source-of-truth": "frontmatter",
       "date-modified": true,
-      "date-modified-key": "date modified",
-      "date-modified-source-of-truth": "file system",
-      "format": "dddd, MMMM Do YYYY, h:mm:ss a",
-      "convert-to-utc": false,
+      "date-modified-key": "modified",
+      "date-modified-source-of-truth": "user or Linter edits",
+      "format": "YYYY-MM-DDTHH:mm:ss[Z]",
+      "convert-to-utc": true,
       "update-on-file-contents-updated": "never"
     },
     "yaml-title": {
