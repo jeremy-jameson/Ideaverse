@@ -87,7 +87,7 @@ ext install ms-vscode-remote.remote-wsl
 
 ### Issue: Docker images consume large amount of disk space
 
-![(screenshot)](https://assets.technologytoolbox.com/screenshots/F3/5CCB258F8ECC8934921DD9F2FC5A3CBEDF7C91F3.png)
+![(screenshot)](https://assets.techtoolbox.us/screenshots/F3/5CCB258F8ECC8934921DD9F2FC5A3CBEDF7C91F3.png)
 
 #### Move Docker images from C: drive (SSD) to F: drive (HDD)
 
