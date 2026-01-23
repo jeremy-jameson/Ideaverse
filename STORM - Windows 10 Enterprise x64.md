@@ -216,7 +216,7 @@ C:\NotBackedUp\Public\Toolbox\PowerShell\Add-PathFolders.ps1 `
 
 #### Install Android SDK Platform-tools
 
-![(screenshot)](https://assets.technologytoolbox.com/screenshots/1E/75601D9C9EF795A16D815FE580D6571F20B23C1E.png)
+![(screenshot)](https://assets.techtoolbox.us/screenshots/1E/75601D9C9EF795A16D815FE580D6571F20B23C1E.png)
 
 #### Detect devices
 
